@@ -13,4 +13,7 @@ The purpose of this project is to practice using Git and GitHub to collaborate o
 4. Open and run the program.ipynb notebook
 
 ## How to Contribute
-Any forks created through GitHub will be reviewed and evaluated for addition to the main program. Simply send a pull request if you'd like to contribute.
+Due to the MIT license, any user is free to use this code in any way they want. You can edit and redestribute it or just create a pull request for your submission to be reviewed for addition to the main existing program.
+
+## Explanations for License and Code of Conduct
+We decided to choose the MIT License because it is very simple and light. It allows people to modify and redistribute our project which is something we are both okay with. 
