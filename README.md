@@ -16,4 +16,4 @@ The purpose of this project is to practice using Git and GitHub to collaborate o
 Due to the MIT license, any user is free to use this code in any way they want. You can edit and redestribute it or just create a pull request for your submission to be reviewed for addition to the main existing program.
 
 ## Explanations for License and Code of Conduct
-We decided to choose the MIT License because it is very simple and light. It allows people to modify and redistribute our project which is something we are both okay with. 
+We decided to choose the MIT License because it is very simple and light. It allows people to modify and redistribute our project which is something we are both okay with. After much research upon a code of conduct that would ensure respectful additions to the project, we decided to use the Contributor Covenant version 1.4 code of conduct. For a code of conduct, it is light yet gets the point across of how others should follow standards within this project.
